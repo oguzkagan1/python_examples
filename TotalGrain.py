@@ -1,3 +1,5 @@
+#Calculate the number of grains of wheat 
+#on a chessboard given that the number on each square doubles.
 
 def square(number):
     if number <= 64 and number > 0:
